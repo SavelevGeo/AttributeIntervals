@@ -1,5 +1,5 @@
 # AttributeIntervals
-A yet unpublished QGIS plugin to detect intervals of consecutive values
+A yet unpublished [QGIS](https://www.qgis.org/en/site/) plugin to detect intervals of consecutive values
 
 It analizes an text or number attribute of selected features in input layer and rearranges its data into series of continious intervals
 
