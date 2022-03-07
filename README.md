@@ -20,7 +20,7 @@ Activate it in the `Plugins` > `Manage and Install Plugins...` window
 ![activation](https://user-images.githubusercontent.com/57714410/157021504-c0b1c335-ab44-411b-8598-8d3cb957e8e3.png)
 
 # Get a point layer and open the plugin dock
-As an example you cand use a set of photos and add it via `Processing toolbox` > `Vactor creation` > `Import geotagged photos`
+As an example you cand use a set of photos and add it via `Processing toolbox` > `Vector creation` > `Import geotagged photos`
 
 ![start](https://user-images.githubusercontent.com/57714410/157023997-4a7e7177-4fc7-442b-984f-cd692aa94080.png)
 
